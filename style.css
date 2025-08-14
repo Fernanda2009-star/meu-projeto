@@ -37,6 +37,20 @@ font-family: Arial, sans-serife;
 }
 video{
   widht:100 %
+  border-radius: 4 px;
+}
+.info {
+  margin-top:8 px;
+}
+.info h3 {
+  font-size: 16 px;
+  margin: 4 px 0;
+  color: #002f6c;
+}
+.info p {
+  font-soze: 13 px;
+  color: #e0dfdf;
+}
   
   
   
